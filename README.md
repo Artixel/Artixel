@@ -1,16 +1,18 @@
-### Hi there 👋
+## - Hi there 👋, I am a 20 year old self taught developer / reverse engineer
 
-<!--
-**Artixel/Artixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Experience in the following languages, ranking from highest to lowest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 
+
+* C#
+* Rust
+* Go
+* C++
+
+## Additional experience
+
+### 
+
+* .NET reverse engineering (.NET Internals, CIL)
+* Native reverse engineering (IDA, x64dbg, Frida)
